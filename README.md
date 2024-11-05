@@ -1,11 +1,3 @@
-## Introduction
-
-Hi. My name is Philip. Here at GitHub I'm phdonner, but on most other platforms I use the signature pdonner. My native language is Swedish, but was born in Tampere, which is a predominantly Finnish city. Therefore most of the school mates had bilingual competence as a gift. That's a good start in learning English, German, French, Spanish, Kiswahili... other languages.
-
-I've been working in English speaking communities, but any unidiomatic use of English will hopefully still be excused. If you have time to [write to me](https://github.com/phdonner/phdonner/blob/main/README.md#contact-information), you can be confident that politely expressed corrections will be most gratefully received.
-
----
-
 ## The village network cooperative
 
 Right now my primary occupation is development of fiber optic network maintenance systems and tools for village networks. I'm doing this more or less full-time voluntary work for our rural network cooperative: Kuhmon kyläverkko-osuuskunta (formerly Luoteis-Kuhmon kyläverkko-osuuskunta). The cooperatife mainly operates in the north-western part of Kuhmo municipality, at the Russian border right on the 64th latitude, which divides Finland into two equally sized parts. 
@@ -37,7 +29,7 @@ I would certainly like to collaborate with other developers, who are willing to 
 
 ---
 
-## A problem: 'How can Markdown pages be rendered and published on the World Wide Web?'
+## Task #1: 'How can Markdown pages be rendered and published on the World Wide Web?'
 
 Software development is in itself a conceptua activity. At best, it provides abstract tools which can facilitate production processes.  The information society should provide us with productive tools, which should improve our life quality. But they should do so without resorting to artificial income logic. 
 
