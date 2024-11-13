@@ -4,6 +4,8 @@ Right now my primary occupation is development of fiber optic network maintenanc
 
 Currently, the cooperative is prepares plans for its forthcoming smart rural projects. Please study the cooperative's [Smart Rural 27 pages](https://nettinoste.fi/wp/category/smart-rural-27/), in case you would like to have a look at all the preparatory work that we have been doing. The pages are a mix of Finnish and English content, but most often with summaries in both directions. Internationalism and [multilingual methods](https://github.com/phdonner/phdonner/blob/main/markdown.md#multilingual-markdown) are actually vital themes of this site. That is an energy-consuming, but important aspect of our task.
 
+## A preparatory project: NOSTERIIHI
+
 You can have a closer look the following aspects of NOSTERIIHI, which are being developed here at GitHub:
 
 * [NOSTERIIHI Markdown](https://github.com/phdonner/Markdown)
