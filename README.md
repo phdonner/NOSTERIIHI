@@ -6,7 +6,7 @@ Currently, the cooperative is prepares plans for its forthcoming smart rural pro
 
 You can have a closer look the following aspects of NOSTERIIHI, which are being developed here at GitHub:
 
-* [NOSTERIIHI Markdown}(https://github.com/phdonner/Markdown)
+* [NOSTERIIHI Markdown](https://github.com/phdonner/Markdown)
 * [Markdown web page production](https://github.com/phdonner/MarkdownProduction)
 
 There a number of more themes to be covered in the near future. Be aware of the fact that there is also a [brief bio of the author](https://github.com/phdonner/) of these pages.
