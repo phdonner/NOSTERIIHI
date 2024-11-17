@@ -27,3 +27,5 @@ Market driven production creates unnecessary expenses, These are often motivated
 
 _Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism_  
 by Jeremy Rifkin, 2015.
+
+<!-- Huomioi suomalaiset lähteet, erityisesti Vanhasen hallituksen ohjelma. -->
